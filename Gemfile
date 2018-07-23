@@ -39,6 +39,9 @@ group :test do
   gem 'rspec-rails', '~> 3.7'
 end
 
+gem 'activerecord'
+gem 'sinatra-activerecord'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
